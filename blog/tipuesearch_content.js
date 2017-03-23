@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"title":"About","url":"./pages/about/","text":"2017Spring 機械設計工程系網際內容管理 課程倉儲: http://github.com/mdecourse/2017springwcm 課程投影片: http://mdecourse.github.io/2017springwcm 課程網誌: http://mdecourse.github.io/2017springwcm/blog","tags":"misc"},{"title":"2017.03.02","url":"./wcm.html","text":"說明如何在 Ubuntu 16.04 操作系統中安裝 Ethercalc, 並令其開機時啟動.","tags":"Course"}]};
