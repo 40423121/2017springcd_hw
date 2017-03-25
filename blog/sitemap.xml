@@ -5,63 +5,70 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-23T11:06:11-00:00</lastmod>
+<lastmod>2017-03-25T22:25:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-23T11:06:11-00:00</lastmod>
+<lastmod>2017-03-25T22:25:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-23T11:06:11-00:00</lastmod>
+<lastmod>2017-03-25T22:25:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-23T11:06:11-00:00</lastmod>
+<lastmod>2017-03-25T22:25:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-23T09:28:23+08:00</lastmod>
+<lastmod>2017-03-25T22:19:42+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./wcm4.html</loc>
+<loc>./wcm5.html</loc>
 <lastmod>2017-03-23T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./wcm3.html</loc>
+<loc>./wcm4.html</loc>
 <lastmod>2017-03-16T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./wcm2.html</loc>
+<loc>./wcm3.html</loc>
 <lastmod>2017-03-09T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./wcm.html</loc>
+<loc>./wcm2.html</loc>
 <lastmod>2017-03-02T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./wcm.html</loc>
+<lastmod>2017-02-23T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
