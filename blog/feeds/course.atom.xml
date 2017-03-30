@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>40423121上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-23T00:00:00+08:00</updated><entry><title>2017.03.23</title><link href="./wcm5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-23:./wcm5.html</id><summary type="html">&lt;p&gt;V-REP 定位軸心&lt;/p&gt;
 </summary><category term="40423121"></category></entry><entry><title>2017.03.16</title><link href="./wcm4.html" rel="alternate"></link><published>2017-03-16T00:00:00+08:00</published><updated>2017-03-16T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-16:./wcm4.html</id><summary type="html">&lt;p&gt;組立連桿&lt;/p&gt;
+
+
 &lt;p&gt;solvespace&lt;/p&gt;
 &lt;p&gt;零件1
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PeUrDVzAAgM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -14,8 +16,9 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P5DdOZZ3qcs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;心得
-繪製零件和組形成旋轉部件,還有導入v-rep&lt;/p&gt;
-</summary><category term="40423121"></category></entry><entry><title>2017.03.09</title><link href="./wcm3.html" rel="alternate"></link><published>2017-03-09T00:00:00+08:00</published><updated>2017-03-09T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-09:./wcm3.html</id><summary type="html">&lt;p&gt;翻譯影片&lt;/p&gt;
+繪製零件和組形成旋轉部件,還有導入v-rep&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.09</title><link href="./wcm3.html" rel="alternate"></link><published>2017-03-09T00:00:00+08:00</published><updated>2017-03-09T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-09:./wcm3.html</id><summary type="html">&lt;p&gt;翻譯影片&lt;/p&gt;
+
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2r5OHm7_FGc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;翻譯逐字稿 The 2017 HyperWorks release has a lot of enhancements to the modeling and assembly capabilities to the software.&lt;/p&gt;
@@ -166,13 +169,19 @@
 &lt;p&gt;繪製onshape連桿&lt;/p&gt;
 &lt;p&gt;組立連桿&lt;/p&gt;
 &lt;p&gt;連桿轉入 V-REP&lt;/p&gt;
-&lt;p&gt;翻譯心得&lt;/p&gt;
-</summary><category term="40423121"></category></entry><entry><title>2017.03.02</title><link href="./wcm2.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-02:./wcm2.html</id><summary type="html">&lt;p&gt;更改stunnel設定檔ip位址&lt;/p&gt;
+&lt;p&gt;翻譯心得&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.02</title><link href="./wcm2.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-02:./wcm2.html</id><summary type="html">&lt;p&gt;更改stunnel設定檔ip位址&lt;/p&gt;
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vYOvUufP5yo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;v-rep solvespace輸入&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/XhxJC21pmXU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;作業心得
 學習如何在不同環境下利用可攜軟體進行設定變更ip 
-v-rep solvespace輸入組件,讓solvespace繪製好的零件可以在其他軟體進行模擬&lt;/p&gt;
-</summary><category term="40423121"></category></entry><entry><title>2017.02.23</title><link href="./wcm.html" rel="alternate"></link><published>2017-02-23T00:00:00+08:00</published><updated>2017-02-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-02-23:./wcm.html</id><summary type="html">&lt;p&gt;利用solvespace及onshape組裝四連桿機構&lt;/p&gt;
+v-rep solvespace輸入組件,讓solvespace繪製好的零件可以在其他軟體進行模擬&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.02.23</title><link href="./wcm.html" rel="alternate"></link><published>2017-02-23T00:00:00+08:00</published><updated>2017-02-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-02-23:./wcm.html</id><summary type="html">&lt;p&gt;利用solvespace及onshape組裝四連桿機構&lt;/p&gt;
+
+
 &lt;p&gt;solvespace組裝影片&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMNMCOstOEs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -188,5 +197,4 @@ v-rep solvespace輸入組件,讓solvespace繪製好的零件可以在其他軟�
 &lt;p&gt;作業心得
 學習如何利用solvespace進行4連桿模擬合組裝
 利用平行約束中心軸線讓零件與線架構草圖平行,再利用零件上的一點對基準平面進行約束,才使零件完全固定到上面.
-onshape方面大同小異,繪製零件沒任何太多差異.但組裝上遇到問題,同時約束零件會跑掉,所以還在想辦法&lt;/p&gt;
-</summary><category term="40423121"></category></entry></feed>
+onshape方面大同小異,繪製零件沒任何太多差異.但組裝上遇到問題,同時約束零件會跑掉,所以還在想辦法&lt;/p&gt;</summary><category term="40423121"></category></entry></feed>
