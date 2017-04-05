@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423121上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-23T00:00:00+08:00</updated><entry><title>2017.03.23</title><link href="./wcm5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-23:./wcm5.html</id><summary type="html">&lt;p&gt;V-REP 定位軸心&lt;/p&gt;
-</summary><category term="40423121"></category></entry><entry><title>2017.03.16</title><link href="./wcm4.html" rel="alternate"></link><published>2017-03-16T00:00:00+08:00</published><updated>2017-03-16T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-16:./wcm4.html</id><summary type="html">&lt;p&gt;組立連桿&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423121上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-30T00:00:00+08:00</updated><entry><title>2017.03.30 第六週</title><link href="./wcm6.html" rel="alternate"></link><published>2017-03-30T00:00:00+08:00</published><updated>2017-03-30T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-30:./wcm6.html</id><summary type="html">&lt;p&gt;V-rep 平面機構運動模擬&lt;/p&gt;
+</summary><category term="40423121"></category></entry><entry><title>2017.03.23 第五週</title><link href="./wcm5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-23:./wcm5.html</id><summary type="html">&lt;p&gt;V-REP 定位軸心&lt;/p&gt;
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5ePLMoDbIv4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;心得:利用之前教的solvespace繪製零件和輸出stl到v-rep上,
+再利用v-rep的模擬功能,新增馬達定位馬達到連接軸上,進行旋轉模擬.&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.16 第四週</title><link href="./wcm4.html" rel="alternate"></link><published>2017-03-16T00:00:00+08:00</published><updated>2017-03-16T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-16:./wcm4.html</id><summary type="html">&lt;p&gt;組立連桿&lt;/p&gt;
 
 
 &lt;p&gt;solvespace&lt;/p&gt;
@@ -16,7 +22,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P5DdOZZ3qcs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;心得
-繪製零件和組形成旋轉部件,還有導入v-rep&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.09</title><link href="./wcm3.html" rel="alternate"></link><published>2017-03-09T00:00:00+08:00</published><updated>2017-03-09T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-09:./wcm3.html</id><summary type="html">&lt;p&gt;翻譯影片&lt;/p&gt;
+繪製零件和組形成旋轉部件,還有導入v-rep&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.09 第三週</title><link href="./wcm3.html" rel="alternate"></link><published>2017-03-09T00:00:00+08:00</published><updated>2017-03-09T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-09:./wcm3.html</id><summary type="html">&lt;p&gt;翻譯影片&lt;/p&gt;
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2r5OHm7_FGc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -165,11 +171,7 @@
 &lt;p&gt;can make global changes across the 可以跨越全球變化&lt;/p&gt;
 &lt;p&gt;entire report so it's a great automation 整個報告，所以它是一個偉大的自動化&lt;/p&gt;
 &lt;p&gt;Tool for post-processing 工具後處理&lt;/p&gt;
-&lt;p&gt;用onshape組立連桿&lt;/p&gt;
-&lt;p&gt;繪製onshape連桿&lt;/p&gt;
-&lt;p&gt;組立連桿&lt;/p&gt;
-&lt;p&gt;連桿轉入 V-REP&lt;/p&gt;
-&lt;p&gt;翻譯心得&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.02</title><link href="./wcm2.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-02:./wcm2.html</id><summary type="html">&lt;p&gt;更改stunnel設定檔ip位址&lt;/p&gt;
+&lt;p&gt;翻譯心得:雖然都聽不太懂,不過利用youtube自動翻譯可以抓到他說了什麼單字和句型,減輕翻譯負擔.&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.02 第二週</title><link href="./wcm2.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-02:./wcm2.html</id><summary type="html">&lt;p&gt;更改stunnel設定檔ip位址&lt;/p&gt;
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vYOvUufP5yo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -179,7 +181,7 @@
 
 &lt;p&gt;作業心得
 學習如何在不同環境下利用可攜軟體進行設定變更ip 
-v-rep solvespace輸入組件,讓solvespace繪製好的零件可以在其他軟體進行模擬&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.02.23</title><link href="./wcm.html" rel="alternate"></link><published>2017-02-23T00:00:00+08:00</published><updated>2017-02-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-02-23:./wcm.html</id><summary type="html">&lt;p&gt;利用solvespace及onshape組裝四連桿機構&lt;/p&gt;
+v-rep solvespace輸入組件,讓solvespace繪製好的零件可以在其他軟體進行模擬&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.02.23 第一週</title><link href="./wcm.html" rel="alternate"></link><published>2017-02-23T00:00:00+08:00</published><updated>2017-02-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-02-23:./wcm.html</id><summary type="html">&lt;p&gt;利用solvespace及onshape組裝四連桿機構&lt;/p&gt;
 
 
 &lt;p&gt;solvespace組裝影片&lt;/p&gt;
