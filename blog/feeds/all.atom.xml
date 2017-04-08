@@ -19,9 +19,12 @@
 
 &lt;p&gt;組合修正 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YTzNXJmiBvE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;v-rep 模擬&lt;/p&gt;
+&lt;p&gt;v-rep 模擬  (模擬錯誤
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/D8Qw7ImfAOI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;v-rep 模擬 (修正  研究中......&lt;/p&gt;
 &lt;p&gt;作業心得:繪製零件和模擬機構和導入零件組合圖進行模擬
-因之前不了解約束條件,所以第一次組合忘記許多約束條件,目前已經有改正.&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.23 第五週</title><link href="./wcm5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-23:./wcm5.html</id><summary type="html">&lt;p&gt;V-REP 定位軸心&lt;/p&gt;
+因之前不了解約束條件,所以第一次組合忘記許多約束條件,目前已經有改正.
+目前v-rep 模擬無法進行模擬,其中一個馬達錯誤導致模擬不能,目前還在想辦法.&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.23 第五週</title><link href="./wcm5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-23:./wcm5.html</id><summary type="html">&lt;p&gt;V-REP 定位軸心&lt;/p&gt;
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5ePLMoDbIv4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
