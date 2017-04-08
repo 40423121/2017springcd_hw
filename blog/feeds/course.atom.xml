@@ -15,7 +15,13 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vXX-saRb6zs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;組合&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OW-WoiO9LgU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.23 第五週</title><link href="./wcm5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-23:./wcm5.html</id><summary type="html">&lt;p&gt;V-REP 定位軸心&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OW-WoiO9LgU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;組合修正 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YTzNXJmiBvE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;v-rep 模擬&lt;/p&gt;
+&lt;p&gt;作業心得:繪製零件和模擬機構和導入零件組合圖進行模擬
+因之前不了解約束條件,所以第一次組合忘記許多約束條件,目前已經有改正.&lt;/p&gt;</summary><category term="40423121"></category></entry><entry><title>2017.03.23 第五週</title><link href="./wcm5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2017-03-23:./wcm5.html</id><summary type="html">&lt;p&gt;V-REP 定位軸心&lt;/p&gt;
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5ePLMoDbIv4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -211,7 +217,10 @@ v-rep solvespace輸入組件,讓solvespace繪製好的零件可以在其他軟�
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uI8F5R-VBTM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;組裝影片
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6ArbxB2uu14" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;組裝影片 修正
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h0K4AJJ4Ep0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;作業心得
 學習如何利用solvespace進行4連桿模擬合組裝
 利用平行約束中心軸線讓零件與線架構草圖平行,再利用零件上的一點對基準平面進行約束,才使零件完全固定到上面.
-onshape方面大同小異,繪製零件沒任何太多差異.但組裝上遇到問題,同時約束零件會跑掉,所以還在想辦法&lt;/p&gt;</summary><category term="40423121"></category></entry></feed>
+onshape方面大同小異,繪製零件沒任何太多差異.但組裝上遇到問題,同時約束零件會跑掉,所以還在想辦法.
+修正 : 原來是不熟悉介面,導致約束零件上發生錯誤,目前已作修正.&lt;/p&gt;</summary><category term="40423121"></category></entry></feed>
